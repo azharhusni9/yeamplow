@@ -1,6 +1,6 @@
 import streamlit as st
 from datetime import datetime
-from fpdf2 import FPDF
+from fpdf import FPDF
 import re
 
 # ====================== SECURITY ======================
